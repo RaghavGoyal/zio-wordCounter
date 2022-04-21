@@ -1,0 +1,2 @@
+This file is for content on effects and effectful programming.
+Not sure what to write more.
